@@ -1,5 +1,8 @@
 scalaVersion := "2.13.6"
 
+
+// fork := true
+
 lazy val V = new {
   val azureStorageBlob = "12.11.1"
   val munit = "0.7.26"
